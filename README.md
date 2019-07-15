@@ -1,3 +1,3 @@
 # Pixel-Explosion-Simulation
 
-Developed a visual pixel explosion program in C++ with SDL2
+A visual pixel explosion program in C++ with SDL2
