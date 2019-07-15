@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : main.cpp
-// Author      : Jason
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 #include <iostream>
 #include <SDL.h>
 #include <math.h>
