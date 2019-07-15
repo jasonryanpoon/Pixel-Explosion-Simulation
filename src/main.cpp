@@ -1,3 +1,10 @@
+/*
+ * Swarm.h
+ *
+ *  Created on: Apr 22, 2018
+ *      Author: Jason
+ */
+
 #include <iostream>
 #include <SDL.h>
 #include <math.h>
